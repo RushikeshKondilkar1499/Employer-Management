@@ -1,0 +1,5 @@
+package com.rushi.EmployerManagement.Exceptions;
+
+public class EmployerNotFoundeExcepttion extends Exception {
+
+}

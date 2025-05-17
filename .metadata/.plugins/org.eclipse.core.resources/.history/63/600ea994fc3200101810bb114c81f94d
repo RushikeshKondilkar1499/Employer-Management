@@ -1,0 +1,14 @@
+package com.rushi.EmployerManagement.Service;
+
+import org.springframework.http.HttpStatusCode;
+import org.springframework.stereotype.Service;
+
+@Service
+public class EmployerService {
+
+	public HttpStatusCode emInquiry(String id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

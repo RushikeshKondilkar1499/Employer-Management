@@ -1,0 +1,7 @@
+package com.rushi.EmployerManagement.DTO;
+
+public class EmInquiryRequest {
+	
+	
+
+}
