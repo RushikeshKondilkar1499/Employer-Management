@@ -1,9 +1,0 @@
-package com.rushi.EmployerManagement.Repository;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-
-import com.rushi.EmployerManagement.Model.Employer;
-
-public interface EmployerRepository extends JpaRepository<Employer, String> {
-
-}
