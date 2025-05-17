@@ -1,5 +1,0 @@
-package com.rushi.EmployerManagement.Repository;
-
-public interface EmpoyerStageRepository {
-
-}
